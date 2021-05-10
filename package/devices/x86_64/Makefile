@@ -23,12 +23,12 @@ define Package/x86_64
 		+luci-app-devcom +RNDIS +luci-app-timecontrol +luci-app-control-timewol \
 		+luci-app-idns +luci-app-hd-idle +luci-app-minidlna +luci-app-adguardhome \
 		+luci-app-mwan3helper +luci-app-sqm +luci-app-netdata +luci-app-ttyd \
-		+luci-app-sccustom +luci-app-serverchan +luci-app-smartdns \
+		+luci-app-pushbot +luci-app-smartdns \
 		+luci-app-uhttpd +luci-app-usb-printer +luci-app-watchpig +luci-app-wrtbwmon \
 		+luci-app-xlnetacc +luci-app-zerotier +luci-theme-argon-18.06 +luci-app-cifs-mount \
 		+luci-app-cifsd +youtube-dl +4G +luci-app-jd-dailybonus +luci-app-kodexplorer \
 		+luci-app-music-remote-center +luci-app-nfs +luci-app-openvpn \
-		+luci-app-passwall +luci-app-privoxy +luci-app-docker +kmod-usb3\
+		+luci-app-passwall +luci-app-privoxy +luci-app-dockerman +kmod-usb3\
 		+luci-app-rclone +luci-app-unblockmusic +luci-app-wireguard
 endef
 

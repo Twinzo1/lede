@@ -22,7 +22,7 @@ define Package/psg1208
   DEPENDS:=+ipv6helper +luci-app-CE +luci-ssl-openssl \
 		+luci-app-devcom +luci-app-timecontrol \
 		+luci-app-idns \
-		+luci-app-sccustom +luci-app-serverchan \
+		+luci-app-pushbot \
 		+luci-app-uhttpd +luci-app-mac +luci-app-wrtbwmon
 endef
 

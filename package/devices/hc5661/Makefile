@@ -23,7 +23,7 @@ define Package/hc5661
 		+luci-app-devcom +RNDIS +luci-app-timecontrol \
 		+luci-app-idns +luci-app-hd-idle +luci-app-minidlna \
 		+luci-app-netdata \
-		+luci-app-sccustom +luci-app-serverchan +luci-app-smartdns \
+		+luci-app-pushbot +luci-app-smartdns \
 		+luci-app-uhttpd +luci-app-usb-printer +luci-app-mac +luci-app-wrtbwmon
 endef
 

@@ -22,7 +22,7 @@ define Package/miwifi_mini
   DEPENDS:=+automount +autosamba +ipv6helper +luci-app-CE \
 		+luci-app-devcom +RNDIS +luci-app-timecontrol +luci-app-control-timewol \
 		+luci-app-idns +luci-app-hd-idle +luci-app-minidlna \
-		+luci-app-netdata +luci-app-sccustom +luci-app-serverchan +luci-app-smartdns \
+		+luci-app-netdata +luci-app-pushbot +luci-app-smartdns \
 		+luci-app-uhttpd +luci-app-usb-printer +luci-app-watchpig +luci-app-wrtbwmon
 		
 endef
